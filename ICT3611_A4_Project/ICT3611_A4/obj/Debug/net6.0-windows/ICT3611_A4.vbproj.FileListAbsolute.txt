@@ -1,0 +1,17 @@
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.vbproj.AssemblyReference.cache
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.frmContactForm.resources
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.vbproj.GenerateResource.cache
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.AssemblyInfoInputs.cache
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.AssemblyInfo.vb
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.vbproj.CoreCompileInputs.cache
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\bin\Debug\net6.0-windows\ICT3611_A4.exe
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\bin\Debug\net6.0-windows\ICT3611_A4.deps.json
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\bin\Debug\net6.0-windows\ICT3611_A4.runtimeconfig.json
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\bin\Debug\net6.0-windows\ICT3611_A4.dll
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\bin\Debug\net6.0-windows\ICT3611_A4.pdb
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.dll
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\refint\ICT3611_A4.dll
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.pdb
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ICT3611_A4.genruntimeconfig.cache
+C:\Users\Sashin\Documents\Unisa 2022\Assignments\ICT3611_A4\ICT3611_A4_Project\ICT3611_A4\obj\Debug\net6.0-windows\ref\ICT3611_A4.dll
